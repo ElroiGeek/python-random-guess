@@ -28,4 +28,4 @@ while guess != secret:
             count += 1
             
 print('It took you ', count, 'guesses!')   
-ask = input(Do you want to play again [yes/no])
+ask = input('Do you want to play again [yes/no]')
